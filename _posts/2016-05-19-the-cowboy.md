@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: The cowboy
-datePublished: '2016-05-19T00:31:55.662Z'
-dateModified: '2016-05-19T00:31:37.381Z'
+description: Drei
+datePublished: '2016-05-19T00:42:17.960Z'
+dateModified: '2016-05-19T00:35:30.442Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-the-cowboy.md
@@ -18,8 +18,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3d57736-b91b-4733-9190-360933a0fc10.jpg)
-
-The cowboy
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/021ca11d-661d-40f6-bc59-8d553fc8c6d9.jpg)
 
 Drei
