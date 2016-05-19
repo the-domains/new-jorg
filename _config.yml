@@ -1,0 +1,28 @@
+name: New-jorg
+favicon: null
+layout_spectrum: 0.7559521524235606
+typography_spectrum: 0.8945662707556039
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.15663674008101225
+  lightness: 0.3115109750069678
+  saturation: 0.5355539235752076
+  rhythmicContrast: 0.10590811306610703
+purpose: []
