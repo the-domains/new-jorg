@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The cowboy
-datePublished: '2016-05-19T00:31:31.428Z'
-dateModified: '2016-05-19T00:31:12.689Z'
+datePublished: '2016-05-19T00:31:55.662Z'
+dateModified: '2016-05-19T00:31:37.381Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-19-the-cowboy.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-19-the-cowboy.md
 url: the-cowboy/index.html
 _type: Article
 
