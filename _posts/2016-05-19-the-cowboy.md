@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: David Schwimmer
-datePublished: '2016-05-19T18:00:59.339Z'
-dateModified: '2016-05-19T18:00:35.717Z'
+datePublished: '2016-05-19T18:08:57.501Z'
+dateModified: '2016-05-19T18:03:13.418Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-the-cowboy.md
